@@ -31,15 +31,15 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>jb.zini.tevi</string>
+<stringcom.shabakaty.cinenamana</string>
 <key>bundle-version</key>
-<string>1.1.1</string>
+<string>4.1.0</string>
 <key>kind</key>
 <string>software</string>
 <key>subtitle</key>
-<string>ittza7aa free</string>
+<string>Hastyar free</string>
 <key>title</key>
-<string>Netflix</string>
+<string>Cinemana</string>
 </dict>
 </dict>
 </array>
